@@ -1,0 +1,19 @@
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+/Users/aoyamashigeki/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-qnu3l0 sitelibdir\=./.gem.20251028-12109-qnu3l0 clean
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-qnu3l0 sitelibdir\=./.gem.20251028-12109-qnu3l0
+compiling escape.c
+linking shared-object erb/escape.bundle
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-qnu3l0 sitelibdir\=./.gem.20251028-12109-qnu3l0 install
+/usr/bin/install -c -m 0755 escape.bundle ./.gem.20251028-12109-qnu3l0/erb
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/erb-5.1.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-qnu3l0 sitelibdir\=./.gem.20251028-12109-qnu3l0 clean

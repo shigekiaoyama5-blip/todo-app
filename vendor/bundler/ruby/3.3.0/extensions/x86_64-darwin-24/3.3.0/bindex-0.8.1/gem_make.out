@@ -1,0 +1,18 @@
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/aoyamashigeki/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-rs5xze sitelibdir\=./.gem.20251028-12109-rs5xze clean
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-rs5xze sitelibdir\=./.gem.20251028-12109-rs5xze
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-rs5xze sitelibdir\=./.gem.20251028-12109-rs5xze install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20251028-12109-rs5xze/skiptrace/internal
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-rs5xze sitelibdir\=./.gem.20251028-12109-rs5xze clean
