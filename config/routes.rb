@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get "tasks/index"
+  get "tasks/show"
+  get "tasks/new"
+  get "tasks/edit"
   get "home/index"
   devise_for :users
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
@@ -8,6 +12,7 @@ Rails.application.routes.draw do
   get "up" => "rails/health#show", as: :rails_health_check
 
   root 'home#index'
+  resources :tasks
 
   # Render dynamic PWA files from app/views/pwa/* (remember to link manifest in application.html.erb)
   # get "manifest" => "rails/pwa#manifest", as: :pwa_manifest
