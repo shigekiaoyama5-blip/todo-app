@@ -1,0 +1,18 @@
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/aoyamashigeki/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-ot8wua sitelibdir\=./.gem.20251028-12109-ot8wua clean
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-ot8wua sitelibdir\=./.gem.20251028-12109-ot8wua
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-ot8wua sitelibdir\=./.gem.20251028-12109-ot8wua install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251028-12109-ot8wua/racc
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-ot8wua sitelibdir\=./.gem.20251028-12109-ot8wua clean

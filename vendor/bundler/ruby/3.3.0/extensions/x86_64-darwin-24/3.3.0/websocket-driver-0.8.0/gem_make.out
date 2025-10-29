@@ -1,0 +1,18 @@
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/Users/aoyamashigeki/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-e9suqn sitelibdir\=./.gem.20251028-12109-e9suqn clean
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-e9suqn sitelibdir\=./.gem.20251028-12109-e9suqn
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-e9suqn sitelibdir\=./.gem.20251028-12109-e9suqn install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20251028-12109-e9suqn
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-e9suqn sitelibdir\=./.gem.20251028-12109-e9suqn clean

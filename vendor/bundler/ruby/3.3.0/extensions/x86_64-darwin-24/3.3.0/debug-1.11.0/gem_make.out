@@ -1,0 +1,19 @@
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+/Users/aoyamashigeki/.rbenv/versions/3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-wz81au sitelibdir\=./.gem.20251028-12109-wz81au clean
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-wz81au sitelibdir\=./.gem.20251028-12109-wz81au
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-wz81au sitelibdir\=./.gem.20251028-12109-wz81au install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20251028-12109-wz81au/debug
+
+current directory: /Users/aoyamashigeki/todoapp/vendor/bundler/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251028-12109-wz81au sitelibdir\=./.gem.20251028-12109-wz81au clean
